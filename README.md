@@ -1,1 +1,0 @@
-# Gartax-score-app
